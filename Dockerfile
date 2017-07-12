@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM alpine:3.6
 MAINTAINER Stephen Oliver <steve@infincia.com>
 
 RUN apk --no-cache add znc
